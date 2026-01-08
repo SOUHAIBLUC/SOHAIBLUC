@@ -1,4 +1,4 @@
-# SOHAIB42page
+# SOHAIB-42-page
 
 <p align="center">
   <a href="https://github.com/SOUHAIBLUC/badge42">
